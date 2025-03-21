@@ -1,4 +1,4 @@
 # OOP-Projects
-Nesne tabanlı programlama öğrenirken yaptığım projeler
+My projects on learning Object-Oriented Programming.
 
 "Nesne Tabanlı Programlama"
